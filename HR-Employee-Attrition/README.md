@@ -5,5 +5,7 @@ HR Analytics helps us with interpreting organizational data. It finds the people
 
 Interestingly, Machine Learning models can be deployed to predict potential attrition cases, helping the appropriate HR Personnel take the necessary steps to retain the employee.
 
-Dataset used for thie case study can be found using this [link](https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction)
+Dataset used for this case study can be found using this [link](https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction)
+
+EDA, Preprocessing and Modelling can be found in the [Notebook](https://github.com/Gowtham-98/ML-Case-Studies/blob/main/HR-Employee-Attrition/HR_Employee_Attrition.ipynb) present in this folder
 
