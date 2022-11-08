@@ -12,4 +12,4 @@ Required files for this Dataset can be found in another folder.
 
 I have performed EDA, Preprocessing and applying of Model on our Dataset in 3 different notebooks respectively which are present in this folder.
 
-Please let me know for any queries or suggestions.
+Please let me know for any queries or suggestions via a email.
