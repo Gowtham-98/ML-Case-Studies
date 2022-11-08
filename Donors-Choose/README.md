@@ -10,6 +10,6 @@ The goal of the competition is to predict whether or not a DonorsChoose.org proj
 
 Required files for this Dataset can be found in another folder.
 
-I have performed [EDA](https://github.com/Gowtham-98/ML-Case-Studies/blob/main/Donors-Choose/EDA_Donors_Choose.ipynb), [Preprocessing](https://github.com/Gowtham-98/ML-Case-Studies/blob/main/Donors-Choose/Preprocessing_Donors_Choose.ipynb) and applying of XG Boost Model on our Dataset in 3 different notebooks respectively which are present in this folder.
+I have performed [EDA](https://github.com/Gowtham-98/ML-Case-Studies/blob/main/Donors-Choose/EDA_Donors_Choose.ipynb), [Preprocessing](https://github.com/Gowtham-98/ML-Case-Studies/blob/main/Donors-Choose/Preprocessing_Donors_Choose.ipynb) and applying of XG Boost [Model](https://github.com/Gowtham-98/ML-Case-Studies/blob/main/Donors-Choose/Modelling_Donors_choose.ipynb) on our Dataset in 3 different notebooks respectively which are present in this folder.
 
 Please let me know for any queries or suggestions via  [email](mailto:munugowtham@gmail.com?subject=GitHub%20Query%20on%20Donors%20Choose%20Case%20Study).
