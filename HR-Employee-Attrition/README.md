@@ -9,4 +9,4 @@ Dataset used for this case study can be found using this [link](https://www.kagg
 
 EDA, Preprocessing and Modelling can be found in the [Notebook](https://github.com/Gowtham-98/ML-Case-Studies/blob/main/HR-Employee-Attrition/HR_Employee_Attrition.ipynb) present in this folder
 
-Please let me know for any queries or suggestions via  [email](mailto:munugowtham@gmail.com?subject=GitHub%20Query%20on%20HR%20Attrition%20Case%20Study).
+Please let me know for any queries or suggestions via  [email](mailto:munugowtham@gmail.com?subject=GitHub%20|%20Query%20on%20HR%20Attrition%20Case%20Study).
