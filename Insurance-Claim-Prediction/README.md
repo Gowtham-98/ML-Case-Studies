@@ -14,4 +14,4 @@ You are provided with information on policyholders containing the attributes lik
 
 I have performed EDA, Preprocessing and applying of CatBoost Classifier and LGBM Model on the Dataset in this notebook which is present in this folder
 
-Please let me know for any queries or suggestions via email.
+Please let me know for any queries or suggestions via [email](mailto:munugowtham@gmail.com?subject=GitHub%20Query%20on%20Insurance%20Claim%20Prediction).
