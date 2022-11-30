@@ -1,5 +1,5 @@
-# Analytics_Vidhya_Dataverse_Hackathon
-This repository contains the notebook which we used for Analytics Vidhya Dataverse Hack Insurance Claim Prediction competition. With this notebook our team could get the 1st rank in the competition.
+# Analytics-Vidhya-Dataverse-Hackathon
+This repository contains the notebook which I have used for Analytics Vidhya Dataverse Hack Insurance Claim Prediction competition. 
 
 # Problem Statement
 CarIns is a startup that provides insurance for cars. It is one of the best car insurance brands known for the highest claim settlement ratio. It was launched back in Oct 2020 and acquired its initial policyholders by providing a hassle-free claim process, instant policy issuance, and claim settlements at minimum coverages.
