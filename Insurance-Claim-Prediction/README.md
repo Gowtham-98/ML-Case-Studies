@@ -10,3 +10,8 @@ Now the company would like to use Data Science to identify the policyholders who
 
 # About the Dataset
 You are provided with information on policyholders containing the attributes like policy tenure, age of the car, age of the car owner, population density of the city, make and model of the car, power, engine type, etc and the target variable indicating whether the policyholder files a claim in the next 6 months or not.
+
+
+I have performed EDA, Preprocessing and applying of CatBoost Classifier and LGBM Model on the Dataset in this notebook which is present in this folder
+
+Please let me know for any queries or suggestions via email.
